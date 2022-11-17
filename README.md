@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @revi2k
 - 👀 I’m interested in Python, SQL and data analysis
-- 🌱 I’m currently learning more Python, SQL (PL/SQL, T-SQL)
+- 🌱 I’m currently learning more Python (exacly Django), SQL (PL/SQL, T-SQL)
 - 💞️ I’m looking to collaborate on new projects, I am open to everything!
 - 📫 How to reach me - jakub.sobczak@onet.pl
 
