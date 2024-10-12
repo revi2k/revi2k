@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @revi2k
-- 👀 I’m interested in Python, SQL and data analysis
+- 👀 I’m interested in Oracle Apex development, Python programming and data analyse
 - 💞️ I’m looking to collaborate on new projects, I am open to everything!
 - 📫 How to reach me - jakub.sobczak@onet.pl
 
